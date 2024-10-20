@@ -41,7 +41,7 @@ const RightSideNav = () => {
       
       {/* Q Zone */}
       <div className="p-4 space-y-3 mb-6">
-        <h2 className="3xl">Q Zone</h2>
+        <h2 className="3xl">Q Zone Part</h2>
        <img src={qZone1} alt="" />
        <img src={qzone2} alt="" />
        <img src={qzone3} alt="" />
