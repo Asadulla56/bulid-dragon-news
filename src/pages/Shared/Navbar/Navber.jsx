@@ -12,6 +12,9 @@ const Navber = () => {
       <li>
         <NavLink to="/career">Career</NavLink>
       </li>
+      <li>
+        <NavLink to="/login">Login</NavLink>
+      </li>
     </>
   );
   return (
@@ -59,7 +62,7 @@ const Navber = () => {
           </div>
         </div>
         <Link to='/login'>
-          <button className="btn">LogIn</button>
+          <button className="btn">Login</button>
         </Link>
       </div>
     </div>
