@@ -58,7 +58,7 @@ const Navber = () => {
             />
           </div>
         </div>
-        <Link>
+        <Link to='/login'>
           <button className="btn">LogIn</button>
         </Link>
       </div>
